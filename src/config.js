@@ -1,6 +1,6 @@
 const config = 
 {
-    "url":"http://localhost:2420"
+    "url":"https://portfoliobackend-q80y.onrender.com"
 }
 
 export default config
