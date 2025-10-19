@@ -1,6 +1,6 @@
 const config = 
 {
-    "url":"https://portfoliobackend-q80y.onrender.com"
+    "url":"https://portfoliobackend-1-5p9w.onrender.com"
 }
 
 export default config
